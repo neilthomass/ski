@@ -1,0 +1,1 @@
+A C++23 interpreter for the **SKI combinator calculus** - a Turing-complete rewriting system built from just three primitive combinators. Written by hand.
